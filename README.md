@@ -33,3 +33,5 @@
 * minimath
 * ui_components
 * feedback
+
+Совершенно с этим согласен!
