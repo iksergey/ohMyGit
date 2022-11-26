@@ -2,10 +2,7 @@
 <html lang="ru">
 
 <head>
-  <meta charset="UTF-8">
-  <title>Проба пера</title>
-
-  <script>
+ <script>
     var x = 90;
     var y = 94;
     var sum = x + y;
@@ -14,7 +11,7 @@
 
   <style>
     p {
-      color: grey;
+      color: rgb(46, 38, 38);
       opacity: 0.2;
     }
 
@@ -27,13 +24,19 @@
 
 <body>
   <div>
-    <p>
-      Это простая HTML-страница.
-    </p>
+    <a href="#" style="color: green;" onclick="return ChangeColor(this);">Это простая HTML-страница.</a>
     <p>
       Всё внимание в script
     </p>
   </div>
 </body>
+<script>
+  function ChangeColor(Element) {
+    if (Element.style.color == 'green') Element.style.color = 'red';
+    else Element.style.color = 'green';
+    return false;
+  }
+  </script>
+
 
 </html>
