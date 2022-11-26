@@ -33,3 +33,5 @@
 * minimath
 * ui_components
 * feedback
+
+Сделал изменение для pull request
