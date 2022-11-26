@@ -9,6 +9,6 @@
 *содержимое этого файла можно удалить*
 
 
-
-
+Все было огонь!!!
+git push --set-upstream origin profile
 мой профиль на GB https://gb.ru/users/7875929
