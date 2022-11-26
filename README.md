@@ -33,3 +33,5 @@
 * minimath
 * ui_components
 * feedback
+
+ты меня одну ветку отправил и вопросы из других веток 
