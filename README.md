@@ -33,3 +33,11 @@
 * minimath
 * ui_components
 * feedback
+
+PS C:\Users\user\Desktop\Учеба\Контроль версий\практикум 26.11.2022\pull request\OhMyGit> git checkout minimath
+error: pathspec 'minimath' did not match any file(s) known to git
+PS C:\Users\user\Desktop\Учеба\Контроль версий\практикум 26.11.2022\pull request\OhMyGit> git checkout ui_components
+error: pathspec 'ui_components' did not match any file(s) known to git
+
+не могу найти нужный файл и ветку для pull request
+поэтому пробую с этим файлом
