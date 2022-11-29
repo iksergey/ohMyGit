@@ -33,3 +33,5 @@
 * minimath
 * ui_components
 * feedback
+
+## забыл последнее задание теста, к сожалению :()
