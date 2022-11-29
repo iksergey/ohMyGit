@@ -1,39 +1,16 @@
-<!DOCTYPE html>
-<html lang="ru">
+# Основные команды Git
 
-<head>
-  <meta charset="UTF-8">
-  <title>Проба пера</title>
-
-  <script>
-
-  </script>
-
-  <style>
-    p {
-      color: black;
-      opacity: 1.0;
-    }
-
-    body {
-      font-size: 30px;
-      text-align: center;
-    }
-  </style>
-</head>
-
-<body>
-  <div>
-    <p>
-      <strong>Нужно бежать со всех ног, <br>
-        чтобы только оставаться на месте, <br>
-        а чтобы куда-то попасть, надо бежать как минимум вдвое
-        быстрее!</strong>
-    </p>
-    <p>
-      <strong>Алиса в стране чудес</strong>
-    </p>
-  </div>
-</body>
-
-</html>
+**git config --global user.name 'User Name'** - добавить пользователя
+**git config --global user.email 'EMAIL'** - добавить email пользователя
+**git init** - назначить папку репозитарием<br>
+**git add** <file_name> - добавить файл для отслеживания<br>
+**git commit -a -m** '*commment text*' - добавить комментарий к изменениям, где -a добавить файл на отслеживание, -m добавить комментарий<br>
+**git diff** - вывести изменения в файле<br>
+**git log** - вывести логи изменений файла
+**git branch name_branch** - создать ветку<br>
+**git checkout name_branch** - перейти в ветку<br>
+**git status** - состояние рабочего каталога и проиндексированных файлов<br>
+**git merge** - слить ветки
+**git clone** - сделать локальный клон удаленного репозитария
+**git push** - скачать ветку с удаленного репозитария
+**git pull** - отправить ветку на удаленный репозитарий
