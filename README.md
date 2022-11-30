@@ -33,3 +33,8 @@
 * minimath
 * ui_components
 * feedback
+
+## Thanks a lot for the lesson!
+* At first, I started to watch it at work, but I couldn't work in git.
+* Then I moved to home and done all tasks.
+* <Waiting to the skills improving :-)>
