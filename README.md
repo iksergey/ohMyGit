@@ -37,3 +37,5 @@
 * minimath
 * ui_components
 * feedback
+
+Практикум прошел!
