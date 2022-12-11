@@ -37,3 +37,5 @@
 * minimath
 * ui_components
 * feedback
+ 
+ > __Сергей вы молодец, отличный практикум.__
