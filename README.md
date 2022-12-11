@@ -37,3 +37,4 @@
 * minimath
 * ui_components
 * feedback
+добрый день. Осваиваю pull request
