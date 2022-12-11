@@ -30,6 +30,8 @@
 
 `git checkout master`
 
+"git checkout branch_AE
+
 
 ## Перечень всех веток
 * master
