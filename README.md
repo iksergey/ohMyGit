@@ -37,5 +37,6 @@
 * minimath
 * ui_components
 * feedback
-* feedback_iksergey 
+* feedback_iksergey -мои изменения
+
 
