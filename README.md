@@ -26,7 +26,7 @@
 
 `git checkout minimath`
 
-`git checkout ui_components`
+`git checkout ui_componentsПривет
 
 `git checkout master`
 
@@ -37,3 +37,4 @@
 * minimath
 * ui_components
 * feedback
+* Привет
