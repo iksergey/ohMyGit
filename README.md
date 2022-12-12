@@ -37,5 +37,7 @@
 * minimath
 * ui_components
 * feedback
+
 Отправил pull request
+
 Попробую сделать коммит без терминала
