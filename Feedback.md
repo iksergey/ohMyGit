@@ -5,4 +5,4 @@
 
 <span style="color:red">
 
-# ***Спасибо*** </span>
+# ***Спасибо!*** </span>
