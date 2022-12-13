@@ -1,0 +1,1 @@
+Sps za prak.Smotrel v zapisi. Bistro i chetko, yvi est s chem sravniti. xxx
