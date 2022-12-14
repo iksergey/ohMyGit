@@ -1,0 +1,12 @@
+open gitHub
+find repository
+fork it
+name it
+launch vsc
+open a folder
+terminal - git clone
+cd  folder name
+create a new branch
+make changes
+push
+create a pull request
