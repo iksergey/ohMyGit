@@ -37,3 +37,6 @@
 * minimath
 * ui_components
 * feedback
+***
+
+тест завершен!
