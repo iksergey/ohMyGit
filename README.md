@@ -38,5 +38,4 @@
 * ui_components
 * feedback
 
-
 Комментарий для pull request'a
