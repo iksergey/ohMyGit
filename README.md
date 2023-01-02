@@ -37,3 +37,7 @@
 * minimath
 * ui_components
 * feedback
+
+***Matveys feedback***
+
+Спасибо за практикум, мне понравились задания, делаю последнее. С Новым Годом!
