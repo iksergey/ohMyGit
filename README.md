@@ -37,3 +37,7 @@
 * minimath
 * ui_components
 * feedback
+
+---
+## __Работа с удаленным репозиторием__
+---
