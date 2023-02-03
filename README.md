@@ -24,11 +24,11 @@
 
 ## Для того, чтобы видеть все ветки в своей локальной копии, вам необходимо выполнить в терминале следующие команды:
 
-`git checkout minimath`
+git checkout minimath
 
-`git checkout ui_components`
+git checkout ui_components
 
-`git checkout master`
+git checkout master
 
 
 ## Перечень всех веток
@@ -37,3 +37,5 @@
 * minimath
 * ui_components
 * feedback
+
+Добавил текст для проверки себя
