@@ -37,3 +37,5 @@ git checkout master
 * minimath
 * ui_components
 * feedback
+
+Добавил текст для проверки себя
