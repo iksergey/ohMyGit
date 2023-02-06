@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Проба пера</title>
+
+  <script>
+    function btn1Click() {
+      alert("Эта кнопка живая! ❤️");
+    }
+    // var value = 253;
+    // document.write(`value = ${value}`);
+  </script>
+
+  <style>
+    p {
+      color: grey;
+      opacity: 0.2;
+    }
+
+    body {
+      font-size: 30px;
+      text-align: center;
+    }
+
+    .glow-button {
+      text-decoration: none;
+      display: inline-block;
+      padding: 15px 30px;
+      margin: 10px 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 40px 40px #F137A6 inset, 0 0 0 0 #F137A6;
+      font-family: 'Montserrat', sans-serif;
+      font-weight: bold;
+      letter-spacing: 2px;
+      color: white;
+      transition: .15s ease-in-out;
+    }
+
+    .glow-button:hover {
+      box-shadow: 0 0 10px 0 #F137A6 inset, 0 0 10px 4px #F137A6;
+      color: #F137A6;
+    }
+  </style>
+
+</head>
+
+<body>
+  <div>
+    <p>
+      Это простая HTML-страница.
+    </p>
+    <p>
+      Всё внимание в script
+    </p>
+    <a href="" class="glow-button" onclick="btn1Click()">Кнопка 1</a>
+    <a href="" class="glow-button">Кнопка 2</a>
+    <a href="" class="glow-button">Кнопка 3 </a>
+  </div>
+</body>
+
+</html>
