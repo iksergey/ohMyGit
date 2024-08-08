@@ -17,7 +17,7 @@
 
 Репозиторий представляет собой часть учебного курса по фулстек разработке, он охватывает технологии и языки программирования, такие как C#, JavaScript, Docker, SQL, React.JS, Git, HTML, CSS, Bootstrap, Markdown, LaTeX, основы математики и алгоритмов.
 
-Преобретая буткемп по [ЭТОЙ ССЫЛКЕ]([https://stepik.org/a/197191/pay?promo=5749ef0badb40674](https://stepik.org/a/197191/pay?promo=5749ef0badb40674&utm_source=github.com&utm_medium=oh_my_git&utm_campaign=narodny_course&utm_term=second) вы получаете приятную скидку
+Преобретая буткемп по [ЭТОЙ ССЫЛКЕ](https://stepik.org/a/197191/pay?promo=5749ef0badb40674&utm_source=github.com&utm_medium=oh_my_git&utm_campaign=narodny_course&utm_term=second) вы получаете приятную скидку
 
 # Задание для итоговой викторины.
 
