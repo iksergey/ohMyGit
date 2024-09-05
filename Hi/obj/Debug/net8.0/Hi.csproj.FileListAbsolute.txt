@@ -1,0 +1,14 @@
+d:\Downloads\practice\Hi\obj\Debug\net8.0\Hi.GeneratedMSBuildEditorConfig.editorconfig
+d:\Downloads\practice\Hi\obj\Debug\net8.0\Hi.AssemblyInfoInputs.cache
+d:\Downloads\practice\Hi\obj\Debug\net8.0\Hi.AssemblyInfo.cs
+d:\Downloads\practice\Hi\obj\Debug\net8.0\Hi.csproj.CoreCompileInputs.cache
+d:\Downloads\practice\Hi\bin\Debug\net8.0\Hi.exe
+d:\Downloads\practice\Hi\bin\Debug\net8.0\Hi.deps.json
+d:\Downloads\practice\Hi\bin\Debug\net8.0\Hi.runtimeconfig.json
+d:\Downloads\practice\Hi\bin\Debug\net8.0\Hi.dll
+d:\Downloads\practice\Hi\bin\Debug\net8.0\Hi.pdb
+d:\Downloads\practice\Hi\obj\Debug\net8.0\Hi.dll
+d:\Downloads\practice\Hi\obj\Debug\net8.0\refint\Hi.dll
+d:\Downloads\practice\Hi\obj\Debug\net8.0\Hi.pdb
+d:\Downloads\practice\Hi\obj\Debug\net8.0\Hi.genruntimeconfig.cache
+d:\Downloads\practice\Hi\obj\Debug\net8.0\ref\Hi.dll
